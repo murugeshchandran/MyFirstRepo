@@ -1,2 +1,2 @@
 # MyFirstRepo
-This is my first repository. Author : Murugesh Chandran
+This is my first repository. <br> Author : Murugesh Chandran
